@@ -1,0 +1,20 @@
+html{
+background-image: url("pictures/istockphoto-482949231-612x612.jpg");
+}
+
+h1{
+    color:crimson;
+}
+
+h2{
+    color: blue;
+}
+
+h3{
+color: blue;
+}
+
+p{
+    font-size: larger;
+    color: brown;
+}
