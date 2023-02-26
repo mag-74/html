@@ -1,0 +1,12 @@
+{
+    "userdate": [
+      {
+        "firstname": "Иван",
+        "lastname": "Иванов",
+        "middlename": "Иванович",
+        "age": 30,
+        "city": "Москва",
+        "phone": "+79267664848"
+      }
+    ]
+}
